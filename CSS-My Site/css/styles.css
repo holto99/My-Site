@@ -1,0 +1,124 @@
+/* ELEMENT SPECIFIERS */
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Montez', cursive;
+  font-size: 5.62em;
+  color: #66BFBF;
+  position: relative;
+  bottom: 100px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  margin-top: 50px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  border: 10px dotted;
+  width: 5%;
+  border-bottom: none;
+  color: #EAF6F6;
+
+}
+
+/* CLASS SPECIFIERS */
+.top-container {
+  background-color: #e4f9f5;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding-top: 350px;
+  position: relative;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+  padding-bottom: 30px;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 450px;
+}
+
+.topCloud {
+  position: absolute;
+  left: 1200px;
+  top: 50px;
+}
+
+.subtitle {
+  font-weight: normal;
+  line-height: 2;
+  position: relative;
+  bottom: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 140px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.controller-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.blurb {
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+
+.profile-image {
+  border-radius: 100%;
+  margin-top: 10px;
+}
+
+.footer-link {
+  margin-left: 20px;
+  font-size: 1.3em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-me {
+  margin: 50px auto 50px auto;
+}
+
+.favicon {
+  margin: 10px auto 10px auto;
+}
